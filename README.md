@@ -1,4 +1,6 @@
-## Hi there, I'm Nilesh Nayan 👋
+<div style="font-size: 12px">
+
+## Hi there, I'm Nilesh Nayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="18px" alt="Hi!"/>
 
 ### 🚀 Software Developer | Artificial Intelligence (AI) | Problem Solver
 
@@ -74,7 +76,7 @@ Ahoy! Welcome aboard to my GitHub ship! My journey in tech is driven by curiosit
     better clusters on M4 dataset using DTW-based distance and DBSCAN in comparison with vanilla K-Means.
   - Deployed global models like N-BEATS, LightGBM for time-series forecasting which saved 5 times the inference cost.
 
-- **Autonomous Object Following Robot | § code**  
+- **Autonomous Object Following Robot | CS 603 Robotics**  
   - Built a Triton Robot based autonomous following system comprising of Nvidia Jetson Nano, RPLIDAR, Intel RealSense D435
     camera, with IMU and wheel encoders using DeepSORT (YOLO + Kalman + Hungarian) algorithm achieving 80.3% MOTA.
   - Created a custom robot control cutting identity-switch occurrences by 40% (to just 5 per sequence) while maintaining 15 FPS.
@@ -118,3 +120,32 @@ I believe in lifelong learning and enjoy exploring new technologies, contributin
 ---
 
 **_Thanks for visiting my profile!_** 
+</div>
+
+---
+
+### 👨‍💻 Technologies Used
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png" width="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="40" alt="Airflow"/>
+</p> 
