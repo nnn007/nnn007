@@ -85,6 +85,8 @@ Ahoy! Welcome aboard to my GitHub ship! My journey in tech is driven by curiosit
 
 - "NL2EQ: Generating Elasticsearch Query DSL from Natural Language Text Using LLM". Springer Nature: Intelligent Computing
 - "AI for IT Operations (AIOps) - Using AI/ML for Improving IT Operations". In Proceedings of SCTE 2022 Fall Technical Forum, Philadelphia, USA. NCTA
+- "Building a scalable real-time ML inference platform for AIOps". Machine Learning Developers Summit 2023 - Lattice Journal · Jan 20, 2023
+- "Using Generative AI for Intelligent Triaging on Logs". SCTE Technical Journal
 
 ---
 
