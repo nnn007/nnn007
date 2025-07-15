@@ -4,6 +4,8 @@
 
 ### 🚀 Software Developer | Artificial Intelligence (AI) | Problem Solver
 
+![Profile Views](https://komarev.com/ghpvc/?username=nnn007&color=brightgreen)
+
 ---
 
 ### 👨‍💻 About Me
