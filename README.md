@@ -1,4 +1,4 @@
-<div style="font-size: 8px">
+<small>
 
 ## Hi there, I'm Nilesh Nayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="18px" alt="Hi!"/>
 
@@ -120,7 +120,7 @@ I believe in lifelong learning and enjoy exploring new technologies, contributin
 ---
 
 **_Thanks for visiting my profile!_** 
-</div>
+</small>
 
 ---
 
