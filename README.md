@@ -106,22 +106,24 @@ Ahoy! Welcome aboard to my GitHub ship! My journey in tech is driven by curiosit
 
 </details>
 
-### 📫 Let's Connect
+<details>
+<summary><b>📫 Let's Connect</b></summary>
 
 - [LinkedIn](https://www.linkedin.com/in/nilesh-nayan/)
 - [Email](mailto:nayan.nilesh@gmail.com)
 - [Portfolio](https://nilesh-nayan-portfolio.netlify.app/)
 - [Academics](https://nnn007.github.io/)
 
----
+</details>
 
-### ⚡ Fun Fact
+<details>
+<summary><b>⚡ Fun Fact</b></summary>
 
 I believe in lifelong learning and enjoy exploring new technologies, contributing to open-source, and participating in hackathons pulling off all-nighters!!
 
----
-
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+</details>
 
 ---
 
