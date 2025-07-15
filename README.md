@@ -1,4 +1,4 @@
-<div style="font-size: 12px">
+<div style="font-size: 8px">
 
 ## Hi there, I'm Nilesh Nayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="18px" alt="Hi!"/>
 
